@@ -1,6 +1,8 @@
 【発表予定のコンテンツのドラフト版原稿】
 https://github.com/HiromasaNojima/slides/blob/main/test-automation-2023/test-automation-it-micorservice.pdf
 
+# ドラフト版のため登壇の選考に合格した場合、内容のブラッシュアップを行います。
+
 【内容】
 マイクロサービスアーキテクチャのテスト戦略に関する内容を発表します。
 Integration Test が所属している組織で重要な位置付けになっていることを説明するとともに、
