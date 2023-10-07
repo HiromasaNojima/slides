@@ -1,0 +1,19 @@
+【発表予定のコンテンツのドラフト版原稿】
+https://github.com/HiromasaNojima/slides/blob/main/test-automation-2023/test-automation-it-micorservice.pdf
+
+【内容】
+マイクロサービスアーキテクチャのテスト戦略に関する内容を発表します。
+Integration Test が所属している組織で重要な位置付けになっていることを説明するとともに、
+どのような課題感があって、Integration Testの層が厚めのテスト戦略になっているかを説明します。
+また、Integration Test の運用上の工夫点についても説明します。
+
+【想定の対象者】
+マイクロサービスアーキテクチャのテスト戦略に関心がある方
+マイクロサービスアーキテクチャの複雑さに苦しんでいる方
+UT, E2E に物足りなさを感じ、Integration Test の導入に興味がある方
+
+【その他】
+Zenn にて、Integration Test に関する記事をいくつか公開しております。
+
+マイクロサービスアーキテクチャに Integration Test を導入しました(https://zenn.dev/smartshopping/articles/28248eafe45757)
+ジョブに対する自動テスト実装のアプローチ(https://zenn.dev/smartshopping/articles/3a0686d1581c98)
