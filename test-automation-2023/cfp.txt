@@ -19,3 +19,5 @@ Zenn にて、Integration Test に関する記事をいくつか公開してお�
 
 マイクロサービスアーキテクチャに Integration Test を導入しました(https://zenn.dev/smartshopping/articles/28248eafe45757)
 ジョブに対する自動テスト実装のアプローチ(https://zenn.dev/smartshopping/articles/3a0686d1581c98)
+
+所属組織のHP: https://smartshopping.co.jp/
